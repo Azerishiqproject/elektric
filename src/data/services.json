@@ -1,0 +1,260 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "icon": "⚡",
+      "title": "Elektrik Tesisatı",
+      "description": "Yeni bina elektrik tesisatı kurulumu, proje tasarımı ve profesyonel uygulama.",
+      "image": "/img/Elektrik-Tesisatı.jpg",
+      "features": [
+        "Yeni Bina Elektrik Tesisatı",
+        "Elektrik Proje Tasarımı",
+        "Elektrik Hattı Döşeme",
+        "Elektrik Panosu Kurulumu",
+        "Topraklama Sistemi",
+        "Elektrik Test ve Kontrol"
+      ],
+      "overview": "Yeni bina elektrik tesisatı kurulumlarında profesyonel hizmet sunuyoruz. Proje tasarımından uygulamaya kadar tüm süreçleri yönetiyoruz. Modern ve kaliteli malzemeler kullanarak, TSE standartlarına uygun elektrik sistemleri kuruyoruz. Güvenli, verimli ve uzun ömürlü elektrik tesisatları ile binalarınızı donatıyoruz.",
+      "benefits": [
+        "TSE standartlarına uygun kurulum",
+        "Kaliteli malzeme kullanımı",
+        "Güvenli elektrik sistemi",
+        "Enerji verimli çözümler",
+        "Garantili işçilik",
+        "Profesyonel proje yönetimi"
+      ],
+      "process": [
+        "Keşif ve elektrik projesi hazırlama",
+        "Malzeme seçimi ve tedarik",
+        "Elektrik hattı döşeme",
+        "Elektrik panosu montajı",
+        "Topraklama sistemi kurulumu",
+        "Test, kontrol ve devreye alma"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "🔌",
+      "title": "Elektrik Arıza Giderme",
+      "description": "Elektrik kesintisi, arıza onarımı, sigorta atması ve elektrik sorunları çözümü.",
+      "image": "/img/Elektrik-Arıza-Giderme.jpg",
+      "features": [
+        "Elektrik Kesintisi Giderme",
+        "Sigorta Atması Sorunu",
+        "Kısa Devre Onarımı",
+        "Elektrik Kaçağı Tespiti",
+        "Priz ve Anahtar Arızası",
+        "Elektrik Panosu Onarımı"
+      ],
+      "overview": "Elektrik arızalarınız için hızlı ve profesyonel çözümler sunuyoruz. Sigorta atması, elektrik kesintisi, kısa devre gibi sorunlarda deneyimli ekibimizle anında müdahale ediyoruz. Modern test cihazları ile arızaları tespit edip, güvenli şekilde onarıyoruz. Elektrik sistemlerinizin sorunsuz çalışmasını sağlıyoruz.",
+      "benefits": [
+        "Hızlı arıza tespiti",
+        "Güvenli onarım işlemleri",
+        "Modern test cihazları",
+        "Kalıcı çözüm garantisi",
+        "Uygun fiyat",
+        "7/24 acil müdahale"
+      ],
+      "process": [
+        "Arıza tespiti ve analiz",
+        "Güvenlik önlemleri alma",
+        "Arızalı bölgeyi izole etme",
+        "Onarım işlemleri",
+        "Test ve kontrol",
+        "Sistem devreye alma"
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "📦",
+      "title": "Elektrik Panosu Montajı",
+      "description": "Elektrik panosu kurulumu, bakımı, modernizasyonu ve güvenlik sistemleri.",
+      "image": "/img/Elektrik-Panosu-Montajı.jpg",
+      "features": [
+        "Elektrik Panosu Kurulumu",
+        "Elektrik Panosu Bakımı",
+        "Eski Pano Modernizasyonu",
+        "Güvenlik Sistemleri",
+        "Otomatik Sigorta Montajı",
+        "Elektrik Panosu Testi"
+      ],
+      "overview": "Elektrik panosu kurulumu ve bakımında uzman hizmet sunuyoruz. Modern ve güvenli elektrik panoları kuruyor, eski panoları modernize ediyoruz. Otomatik sigorta sistemleri, güvenlik sistemleri ve akıllı kontrol sistemleri kuruyoruz. Elektrik panolarınızın güvenli ve verimli çalışmasını sağlıyoruz.",
+      "benefits": [
+        "Güvenli elektrik panosu",
+        "Modern teknoloji",
+        "Enerji verimliliği",
+        "Uzun ömürlü sistem",
+        "Kolay bakım",
+        "Garantili işçilik"
+      ],
+      "process": [
+        "Keşif ve proje hazırlama",
+        "Pano seçimi ve tasarım",
+        "Elektrik panosu montajı",
+        "Bağlantı ve kablolama",
+        "Güvenlik testleri",
+        "Devreye alma ve eğitim"
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "🔍",
+      "title": "Elektrik Bakım ve Kontrol",
+      "description": "Periyodik elektrik bakımı, güvenlik kontrolü, enerji verimliliği analizi ve raporlama.",
+      "image": "/img/Elektrik-Bakım-ve-Kontrol.jpg",
+      "features": [
+        "Periyodik Elektrik Bakımı",
+        "Elektrik Güvenlik Kontrolü",
+        "Enerji Verimliliği Analizi",
+        "Elektrik Ölçüm ve Test",
+        "Arıza Önleme Planı",
+        "Bakım Raporlama"
+      ],
+      "overview": "Elektrik sistemlerinizin düzenli bakımı ve kontrolü için kapsamlı hizmetler sunuyoruz. Periyodik kontroller yaparak olası sorunları önceden tespit ediyor, önleyici bakım planları hazırlıyoruz. Enerji verimliliği analizleri yaparak tasarruf sağlıyoruz. Elektrik sistemlerinizin güvenli ve verimli çalışmasını garanti ediyoruz.",
+      "benefits": [
+        "Önleyici bakım ile arıza önleme",
+        "Enerji tasarrufu",
+        "Güvenlik garantisi",
+        "Uzun ömürlü sistem",
+        "Düzenli bakım raporu",
+        "Maliyet tasarrufu"
+      ],
+      "process": [
+        "Elektrik sistemi kontrolü",
+        "Ölçüm ve test işlemleri",
+        "Arıza ve risk tespiti",
+        "Enerji verimliliği analizi",
+        "Bakım planı hazırlama",
+        "Bakım işlemleri ve raporlama"
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "🔍",
+      "title": "Kaçak Tespiti",
+      "description": "Elektrik kaçağı tespiti, güvenlik kontrolü ve profesyonel ölçüm hizmetleri.",
+      "image": "/img/Kaçak-Tespiti.jpg",
+      "features": [
+        "Elektrik Kaçağı Tespiti",
+        "Topraklama Kontrolü",
+        "İzolasyon Testi",
+        "Güvenlik Ölçümleri",
+        "Kaçak Akım Rölesi Kontrolü",
+        "Detaylı Raporlama"
+      ],
+      "overview": "Elektrik kaçağı tespiti için modern test cihazları ile profesyonel hizmet sunuyoruz. Güvenliğiniz için kritik olan elektrik kaçaklarını tespit edip, güvenli çözümler sunuyoruz. Topraklama kontrolü, izolasyon testi ve kaçak akım rölesi kontrolleri yapıyoruz. Elektrik sistemlerinizin güvenli çalışmasını sağlıyoruz.",
+      "benefits": [
+        "Güvenlik garantisi",
+        "Modern test cihazları",
+        "Hızlı tespit",
+        "Detaylı raporlama",
+        "Uygun fiyat",
+        "Profesyonel hizmet"
+      ],
+      "process": [
+        "Görsel kontrol",
+        "Test cihazı ile ölçüm",
+        "Kaçak tespiti",
+        "Güvenlik analizi",
+        "Çözüm önerileri",
+        "Raporlama"
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "📡",
+      "title": "Uydu Kurulumu",
+      "description": "Uydu anten kurulumu, çanak anten montajı ve uydu sistemleri kurulum hizmetleri.",
+      "image": "/img/Uydu-Kurulumu.jpg",
+      "features": [
+        "Uydu Anten Kurulumu",
+        "Çanak Anten Montajı",
+        "Uydu Sinyal Ayarlama",
+        "Kablo Döşeme",
+        "Multiswitch Kurulumu",
+        "Bakım ve Onarım"
+      ],
+      "overview": "Uydu kurulumu ve montajında uzman hizmet sunuyoruz. Çanak anten kurulumu, uydu sinyal ayarlama ve kablo döşeme işlemlerini profesyonelce yapıyoruz. Multiswitch sistemleri kuruyor, mevcut sistemlerin bakım ve onarımını yapıyoruz. Kaliteli sinyal alımı için doğru kurulum yapıyoruz.",
+      "benefits": [
+        "Profesyonel kurulum",
+        "Kaliteli sinyal alımı",
+        "Güvenli montaj",
+        "Uygun fiyat",
+        "Garantili işçilik",
+        "Hızlı hizmet"
+      ],
+      "process": [
+        "Keşif ve planlama",
+        "Anten montajı",
+        "Kablo döşeme",
+        "Sinyal ayarlama",
+        "Test ve kontrol",
+        "Devreye alma"
+      ]
+    },
+    {
+      "id": 9,
+      "icon": "🏠",
+      "title": "Akıllı Ev Değişimi",
+      "description": "Akıllı ev sistemleri kurulumu, otomasyon ve akıllı cihaz entegrasyonu hizmetleri.",
+      "image": "/img/Akıllı-Ev-Değişimi.jpg",
+      "features": [
+        "Akıllı Ev Sistemleri",
+        "Otomasyon Kurulumu",
+        "Akıllı Aydınlatma",
+        "Akıllı Priz Sistemleri",
+        "Mobil Kontrol",
+        "Enerji Yönetimi"
+      ],
+      "overview": "Akıllı ev sistemleri kurulumunda modern teknolojiler kullanıyoruz. Otomasyon sistemleri, akıllı aydınlatma, akıllı priz sistemleri ve mobil kontrol sistemleri kuruyoruz. Enerji yönetimi ve konfor için kapsamlı akıllı ev çözümleri sunuyoruz. Evinizi modern teknoloji ile donatıyoruz.",
+      "benefits": [
+        "Enerji tasarrufu",
+        "Konfor ve kolaylık",
+        "Mobil kontrol",
+        "Modern teknoloji",
+        "Güvenlik artışı",
+        "Uzun vadeli tasarruf"
+      ],
+      "process": [
+        "İhtiyaç analizi",
+        "Sistem tasarımı",
+        "Kurulum ve montaj",
+        "Cihaz entegrasyonu",
+        "Yazılım kurulumu",
+        "Eğitim ve devreye alma"
+      ]
+    },
+    {
+      "id": 10,
+      "icon": "🔌",
+      "title": "Priz Değişimi",
+      "description": "Priz değişimi, priz montajı, topraklı priz kurulumu ve priz onarım hizmetleri.",
+      "image": "/img/Priz-Değişimi.jpg",
+      "features": [
+        "Priz Değişimi",
+        "Topraklı Priz Kurulumu",
+        "USB Priz Montajı",
+        "Priz Onarımı",
+        "Güvenlik Kontrolü",
+        "Hızlı Hizmet"
+      ],
+      "overview": "Priz değişimi ve montajında hızlı ve güvenli hizmet sunuyoruz. Topraklı priz, USB priz ve modern priz sistemleri kuruyoruz. Eski ve arızalı prizleri değiştirip, güvenli priz sistemleri kuruyoruz. TSE standartlarına uygun priz montajı yapıyoruz.",
+      "benefits": [
+        "Hızlı hizmet",
+        "Güvenli montaj",
+        "TSE standartları",
+        "Modern priz sistemleri",
+        "Uygun fiyat",
+        "Garantili işçilik"
+      ],
+      "process": [
+        "Mevcut priz kontrolü",
+        "Güvenlik önlemleri",
+        "Eski priz sökümü",
+        "Yeni priz montajı",
+        "Test ve kontrol",
+        "Devreye alma"
+      ]
+    }
+  ]
+}
